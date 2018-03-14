@@ -2,6 +2,17 @@
   float: left;
 }
 
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+
 img {
   width: 250px;
 }
